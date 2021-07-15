@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhugweda Shedge</h1>
-<h3 align="center">A Passionate Software Developer and an Ethusiatic Learner</h3>
+<h3 align="center">A Passionate Software Developer and an Enthusiastic Learner</h3>
 
 - 📫 How to reach me **rhugwedanshedge@gmail.com**
 
