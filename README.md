@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rhugweda Shedge</h1>
 <h3 align="center">A Passionate Software Developer and an Ethusiatic Learner</h3>
 
+![Blue and White Architect LinkedIn Banner (2)](https://user-images.githubusercontent.com/68070580/132020145-9b36c203-02eb-45a5-8e3f-ba50d0d6e656.png)
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 Checkout my Portfolio at [https://rhugwedashedge.github.io/](https://rhugwedashedge.github.io/)
