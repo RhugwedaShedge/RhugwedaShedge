@@ -13,7 +13,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- Face Detection using Haar Cascade Classifier in OpenCV and Python
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
