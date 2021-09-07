@@ -3,7 +3,7 @@
 
 ![Blue and White Architect LinkedIn Banner (2)](https://user-images.githubusercontent.com/68070580/132020145-9b36c203-02eb-45a5-8e3f-ba50d0d6e656.png)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and ReactJS**
 
 - 👨‍💻 Checkout my Portfolio at [https://rhugwedashedge.github.io/](https://rhugwedashedge.github.io/)
 
