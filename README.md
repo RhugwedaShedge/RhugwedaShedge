@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Face Detection using Haar Cascade Classifier in OpenCV and Python](https://medium.com/@rhugwedanshedge/face-detection-using-haar-cascade-classifier-in-opencv-and-python-d6318d0e189a?source=rss-e16f437b2d95------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
