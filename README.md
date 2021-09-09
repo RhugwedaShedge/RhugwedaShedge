@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Your Github Profile Appealing — Add a Readme File](https://medium.com/@rhugwedanshedge/make-your-github-profile-appealing-add-a-readme-file-e03104d04e72?source=rss-e16f437b2d95------2)
 - [Face Detection using Haar Cascade Classifier in OpenCV and Python](https://medium.com/@rhugwedanshedge/face-detection-using-haar-cascade-classifier-in-opencv-and-python-d6318d0e189a?source=rss-e16f437b2d95------2)
 <!-- BLOG-POST-LIST:END -->
 
